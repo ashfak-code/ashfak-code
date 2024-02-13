@@ -1,4 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" alt="Hello, I'm Ashafak. I cloudify Apps!" src="https://github.com/ashfak-code/ashfak-code/blob/main/cover.png" /></a></p>
 
 <p align="right">
 
@@ -50,4 +49,3 @@ Watch my contribution graph being eaten by a Snake! 🐍
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfak-code&layout=compact&theme=omni"/>
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashfak-code&show_icons=true&theme=omni"/>
 </div>
-
