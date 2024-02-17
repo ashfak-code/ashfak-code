@@ -6,6 +6,8 @@
 I'm a passionate Platform and Cloud Engineer from India 🇮🇳
 
 - 💼 Senior Platform Engineer at [GE Healthcare](https://www.gehealthcare.com/)
+
+- 📜 Certified Kubernetes Administrator (CKA) & AWS Solution Architect Associate 
   
 - 📈 Built Platforms for Internal Development Teams and Third Party Vendor for E2E Application Deployment with Scalability(K8s), Secured and Highly Customizable Cloud Infrastructure, & Automation using Cloud providers and native services
 
@@ -32,7 +34,7 @@ I'm a passionate Platform and Cloud Engineer from India 🇮🇳
 
 ### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
 
-![Dino]( https://github.com/NAGESHGOWDA1993/NAGESHGOWDA1993/blob/main/dino.gif)
+![Dino]( https://github.com/ashfak-code/ashfak-code/blob/main/dino.gif)
 
 <h3 align="left">Support:</h3>If you like what I do, support me by buying me a Coffee
 
